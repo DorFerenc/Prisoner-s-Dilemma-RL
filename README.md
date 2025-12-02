@@ -73,11 +73,13 @@ Then you reveal your choices and get points:
 ## Files in This Project
 
 ```
-├── assignment1_fnal.ipynb    # Main notebook (run this!)
+├── assignment1_fnal.ipynb     # Main notebook (run this!)
 ├── README.md                  # This file
-├── convergence_plots.png      # How the algorithm converges
+├── convergence_plots*.png     # How the algorithm converges
 ├── reward_vs_gamma.png        # Rewards at different discount factors
-└── game_*.gif                 # Animations of games
+├── visualizations/*           # visuals of the eppisodes 1,2,50
+├── RL2026A-Assignment1.pdf    # The Assignment
+└── main.tex                   # The math
 ```
 
 ---
