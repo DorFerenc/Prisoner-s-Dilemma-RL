@@ -1,7 +1,6 @@
 # 🎮 Prisoner's Dilemma - Reinforcement Learning Assignment
 
-## What is this? (Explain Like I'm 5)
-
+## What is this?
 Imagine you and a friend are playing a game. Each round, you both secretly choose:
 - 👍 **Cooperate** (be nice)
 - 👎 **Defect** (be mean)
